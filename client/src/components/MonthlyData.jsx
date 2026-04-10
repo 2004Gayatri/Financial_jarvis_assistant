@@ -11,7 +11,7 @@ const MonthlyData = () => {
 
         try {
             alert(`Uploading data for month ${monthId}...`);
-            await axios.post(`http://localhost:3001/api/upload/${monthId}`, formData, {
+            await axios.post(`https://financial-jarvis-assistant.onrender.com/api/upload/${monthId}`, formData, {
                 headers: { 'Content-Type': 'multipart/form-data' }
             });
             alert("File successfully imported to AI Database!");

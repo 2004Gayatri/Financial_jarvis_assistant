@@ -189,7 +189,7 @@ const CsvVoiceAssistantWidget = () => {
         setResponseTxt('Checking your CSV data...');
 
         try {
-            const res = await axios.post('http://localhost:3001/api/ask', { query });
+            const res = await axios.post('https://financial-jarvis-assistant.onrender.com/api/ask', { query });
             const answer = res.data?.answer || 'I could not find an answer in the uploaded CSV data.';
             setResponseTxt(answer);
             speak(answer.split('\n').map(line => line.replace(/^-\s*/, '').trim()).filter(Boolean).join('. '));
