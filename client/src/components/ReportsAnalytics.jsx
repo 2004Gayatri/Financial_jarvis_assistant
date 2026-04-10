@@ -14,7 +14,7 @@ const ReportsAnalytics = () => {
     const [filterDept, setFilterDept] = useState('all');
 
     useEffect(() => {
-        axios.get('http://localhost:3001/api/data')
+        axios.get("https://financial-jarvis-assistant.onrender.com/api/data")
              .then(res => setData(res.data.data || []))
              .catch(err => console.error(err));
     }, []);

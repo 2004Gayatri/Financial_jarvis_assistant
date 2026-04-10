@@ -21,7 +21,7 @@ const Dashboard = () => {
 
     const fetchData = async () => {
         try {
-            const res = await axios.get('http://localhost:3001/api/data');
+            const res = await axios.get("https://financial-jarvis-assistant.onrender.com/api/data");
             setData(res.data.data || []);
         } catch (err) {
             console.error("Error fetching data", err);
