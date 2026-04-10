@@ -1,0 +1,31 @@
+Date,Type,Category,Department,Client,Project,Description,Amount,Status
+2026-01-01,Income,Invoice,Sales,ABC Ltd,Website Development,Client ABC Payment,12000,Paid
+2026-01-02,Expense,Social Media,Marketing,ABC Ltd,Website Development,LinkedIn Ads,1500,Completed
+2026-01-03,Expense,Travel,Operations,ABC Ltd,Website Development,Client Meeting Travel,1000,Completed
+2026-01-04,Expense,Salary,HR,Internal,HR Management,Employee Salary,22000,Completed
+2026-01-05,Income,Invoice,Sales,XYZ Pvt Ltd,Mobile App,Client XYZ Payment,18000,Paid
+2026-01-06,Expense,Office Supplies,Operations,XYZ Pvt Ltd,Mobile App,Stationery Purchase,900,Completed
+2026-01-07,Expense,Social Media,Marketing,XYZ Pvt Ltd,Mobile App,Instagram Ads,2500,Completed
+2026-01-08,Expense,Software,IT,Internal,System Upgrade,Tools Subscription,4000,Completed
+2026-01-09,Income,Invoice,Sales,DEF Corp,E-commerce Site,Client DEF Payment,16000,Paid
+2026-01-10,Expense,Travel,Operations,DEF Corp,E-commerce Site,Delivery Travel,800,Completed
+2026-01-11,Expense,Salary,HR,Internal,Internship Program,Intern Stipend,7000,Completed
+2026-01-12,Expense,Social Media,Marketing,DEF Corp,E-commerce Site,Facebook Ads,2000,Completed
+2026-01-13,Income,Invoice,Sales,GHI Ltd,CRM System,Client GHI Payment,20000,Paid
+2026-01-14,Expense,Maintenance,Operations,GHI Ltd,CRM System,Office Repair,2500,Completed
+2026-01-15,Expense,Software,IT,GHI Ltd,CRM System,Cloud Services,6000,Completed
+2026-01-16,Expense,Travel,Operations,GHI Ltd,CRM System,Client Visit,1500,Completed
+2026-01-17,Income,Invoice,Sales,JKL Pvt Ltd,AI Assistant,Client JKL Payment,15000,Paid
+2026-01-18,Expense,Social Media,Marketing,JKL Pvt Ltd,AI Assistant,YouTube Promotion,3000,Completed
+2026-01-19,Expense,Salary,HR,Internal,HR Management,Employee Salary,22000,Completed
+2026-01-20,Expense,Office Supplies,Operations,Internal,Office Setup,Printer Ink,700,Completed
+2026-01-21,Income,Invoice,Sales,MNO Corp,Data Analytics,Client MNO Payment,19000,Paid
+2026-01-22,Expense,Software,IT,MNO Corp,Data Analytics,API Subscription,3000,Completed
+2026-01-23,Expense,Travel,Operations,MNO Corp,Data Analytics,Field Work Travel,1500,Completed
+2026-01-24,Expense,Social Media,Marketing,MNO Corp,Data Analytics,Twitter Ads,1200,Completed
+2026-01-25,Income,Invoice,Sales,PQR Ltd,Cloud Migration,Client PQR Payment,17000,Paid
+2026-01-26,Expense,Salary,HR,Internal,Internship Program,Intern Stipend,7000,Completed
+2026-01-27,Expense,Maintenance,Operations,PQR Ltd,Cloud Migration,Equipment Repair,2000,Completed
+2026-01-28,Expense,Software,IT,PQR Ltd,Cloud Migration,Security Tools,3500,Completed
+2026-01-29,Expense,Social Media,Marketing,PQR Ltd,Cloud Migration,LinkedIn Ads,1800,Completed
+2026-01-30,Income,Invoice,Sales,STU Pvt Ltd,Web Portal,Client STU Payment,21000,Paid
